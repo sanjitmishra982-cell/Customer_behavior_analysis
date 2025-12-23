@@ -42,16 +42,10 @@ J-upyter Notebook
 .High-revenue customer segments highlighted
 .Clear performance gaps identified for improvement
 
-📈 Power BI Dashboard
-📌 Sales Overview Dashboard
-
-📌 Product & Customer Insights
-
-📎 Note:
-Upload your Power BI screenshots inside the visualizations/ folder and keep the same file names.
-
-# 🔗 Live Dashboard Link
-👉 Power BI Dashboard:
+# 📈 Power BI Dashboard
+Here is the Dashboard that i have created
+ 🔗 Live Dashboard Link
+👉 Power BI Dashboard:https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/main/Screenshot%20of%20Dashboard.png
 
 
 ▶️ How to Run
