@@ -28,7 +28,7 @@ The analysis transforms raw sales data into clear, actionable business insights 
 
 .What is the revenue contribution of each age group?
 
-🧭 How to Navigate This Repository
+# 🧭 How to Navigate This Repository
 
 GitHub displays files alphabetically.
 Please follow this workflow while reviewing: Dataset → Data Cleaning → EDA → SQL Analysis → Dashboard → Insights
@@ -53,7 +53,7 @@ Python (Pandas, NumPy)
 # 📊 Dataset Information
 .Type: Customer Shopping Data
 .Format: CSV
-.Dataset link-
+.Dataset link-https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/ed7cd2fade9618fefdb84ffc1fae9320dbd73f5f/Dataset.csv
 .Contains:Customer details,Purchase amount, Subscription status, Shipping type ,Order information
  
 #📊 Analysis Performed
@@ -75,7 +75,7 @@ Here is Dashboard that i have created
 👉 Power BI Dashboard:
 ![image alt](https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/2160106512a6dbfae82be33d97af3b65040a2bef/Screenshot%20of%20Dashboard.png)
 
-👤 Author
+#👤 Author
 
 Sanjit Mishra
 🎓 MCA Student | 📊 Aspiring Data Analyst
