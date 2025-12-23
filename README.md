@@ -26,9 +26,15 @@ Python (Pandas, NumPy)
 -Excel
 -Matplotlib / Seaborn
 -Power BI
-J-upyter Notebook
+-J-upyter Notebook
 
-📊 Analysis Performed
+# 📊 Dataset Information
+.Type: Customer Shopping Data
+.Format: CSV
+.Dataset link-
+.Contains:Customer details,Purchase amount, Subscription status, Shipping type ,Order information
+ 
+#📊 Analysis Performed
 -Data cleaning & preprocessing
 -Monthly & yearly sales trend analysis
 -Product-wise revenue comparison
@@ -43,11 +49,10 @@ J-upyter Notebook
 .Clear performance gaps identified for improvement
 
 # 📈 Power BI Dashboard
-Here is the Dashboard that i have created
-
+Here is Dashboard that i have created
 👉 Power BI Dashboard:
 ![image alt](https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/2160106512a6dbfae82be33d97af3b65040a2bef/Screenshot%20of%20Dashboard.png)
-▶️ How to Run
+# ▶️ How to Run
 git clone https://github.com/your-username/your-repo-name.git
 
 
