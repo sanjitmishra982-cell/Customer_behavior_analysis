@@ -46,7 +46,7 @@ J-upyter Notebook
 Here is the Dashboard that i have created
 
 👉 Power BI Dashboard:
-![Power BI Dashboard]([visualizations/dashboard_overview.png](https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/main/Screenshot%20of%20Dashboard.png?raw=true))
+![image alt](https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/2160106512a6dbfae82be33d97af3b65040a2bef/Screenshot%20of%20Dashboard.png)
 ▶️ How to Run
 git clone https://github.com/your-username/your-repo-name.git
 
