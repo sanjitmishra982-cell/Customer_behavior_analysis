@@ -45,7 +45,7 @@ J-upyter Notebook
 # 📈 Power BI Dashboard
 Here is the Dashboard that i have created
  🔗 Live Dashboard Link
-👉 Power BI Dashboard:https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/main/Screenshot%20of%20Dashboard.png
+👉 Power BI Dashboard:[https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/main/Screenshot%20of%20Dashboard.png](https://github.com/sanjitmishra982-cell/Customer_behavior_analysis/blob/main/customer_behavior_dashboard2.pbix)
 
 
 ▶️ How to Run
